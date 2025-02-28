@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// And there is actual code. I found it painful to right all of this without highlighting compile problems. Half an hour searched for what is segmentation error.
 int main() {
 	int n;
 
